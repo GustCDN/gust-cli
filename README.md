@@ -1,5 +1,5 @@
 <p align="center">
-    <img title="Gust CLI" height="100" src="https://raw.githubusercontent.com/GustCDN/art/main/logo-full-dark.svg" />
+    <img title="Gust CLI" height="100" src="https://raw.githubusercontent.com/GustCDN/art/main/base/svg/dark.svg" />
 </p>
 
 <p align="center">
