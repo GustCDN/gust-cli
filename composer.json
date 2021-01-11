@@ -1,18 +1,18 @@
 {
-    "name": "laravel-zero/laravel-zero",
+    "name": "gust/cli",
     "description": "The Laravel Zero Framework.",
-    "keywords": ["framework", "laravel", "laravel zero", "console", "cli"],
-    "homepage": "https://laravel-zero.com",
+    "keywords": ["gust", "cli", "gust cli", "tailwind"],
+    "homepage": "https://gustcdn.com",
     "type": "project",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/laravel-zero/laravel-zero/issues",
-        "source": "https://github.com/laravel-zero/laravel-zero"
+        "issues": "https://github.com/gustcdn/gust-cli/issues",
+        "source": "https://github.com/gustcdn/gust-cli"
     },
     "authors": [
         {
-            "name": "Nuno Maduro",
-            "email": "enunomaduro@gmail.com"
+            "name": "Daniel Jones",
+            "email": "daniel@gustcdn.com"
         }
     ],
     "require": {
