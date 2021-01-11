@@ -1,6 +1,6 @@
 {
     "name": "gust/cli",
-    "description": "The Laravel Zero Framework.",
+    "description": "The CLI interface for Gust CDN.",
     "keywords": ["gust", "cli", "gust cli", "tailwind"],
     "homepage": "https://gustcdn.com",
     "type": "project",
@@ -40,5 +40,5 @@
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "bin": ["application"]
+    "bin": ["gust"]
 }
